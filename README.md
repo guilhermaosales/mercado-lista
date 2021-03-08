@@ -1,3 +1,3 @@
-# MERCADO LISTA APP
+# SHOPPING LIST APP
 
-Work In Progress :rocket:
+Project status: Work In Progress :rocket:
